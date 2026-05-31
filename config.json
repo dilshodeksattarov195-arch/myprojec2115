@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentrecrypt",
+        "uuid": 18055755,
+        "checksum": "68meyb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
